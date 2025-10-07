@@ -1,0 +1,23 @@
+{
+  "name": "ssh-mcp-server",
+  "version": "1.0.0",
+  "description": "Servidor MCP para demonstração de conceitos SSH e ferramentas relacionadas",
+  "type": "module",
+  "main": "server.py",
+  "scripts": {
+    "start": "python server.py",
+    "dev": "python server.py --debug",
+    "install": "pip install -r requirements.txt"
+  },
+  "author": "Curso SSH - MVP 6",
+  "license": "MIT",
+  "keywords": ["mcp", "ssh", "networking", "security"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drmcoelho/SSH"
+  },
+  "mcp": {
+    "command": "python",
+    "args": ["server.py"]
+  }
+}

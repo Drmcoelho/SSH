@@ -13,8 +13,8 @@ Este documento apresenta o planejamento detalhado do megacurso altamente prátic
 
 ## MVPs Planejados
 
-### MVP 1 – SSH Prático no Mac e Eterm2
-**Objetivo:** Dominar o uso do SSH no ambiente Mac/Eterm2.
+### MVP 1 – SSH Prático no Mac e iterm2
+**Objetivo:** Dominar o uso do SSH no ambiente Mac/iterm2.
 **Conteúdo:**
 - Instalação e configuração
 - Comandos básicos e avançados
